@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuilWinkelVaals", "RuilWinkelVaals\RuilWinkelVaals.csproj", "{C41481AF-E354-4771-AF61-A8B7CAD3459A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuilWinkelVaals.Tests", "RuilWinkelVaals.Tests\RuilWinkelVaals.Tests.csproj", "{6AF47455-8489-4129-B370-F5473A3CFDD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41481AF-E354-4771-AF61-A8B7CAD3459A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41481AF-E354-4771-AF61-A8B7CAD3459A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41481AF-E354-4771-AF61-A8B7CAD3459A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41481AF-E354-4771-AF61-A8B7CAD3459A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF47455-8489-4129-B370-F5473A3CFDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF47455-8489-4129-B370-F5473A3CFDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF47455-8489-4129-B370-F5473A3CFDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF47455-8489-4129-B370-F5473A3CFDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AFBF44B-CD8B-4958-B7A3-E46ED6A75431}
+	EndGlobalSection
+EndGlobal
